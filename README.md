@@ -1,4 +1,4 @@
-<div align=left><h2>📚MY STACKS</h2></div>
+<div align=left><h2>📚 STACKS</h2></div>
 
 ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
